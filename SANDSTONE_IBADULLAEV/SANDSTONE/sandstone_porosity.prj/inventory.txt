@@ -1,0 +1,60 @@
+# Inventory file written by SKUA-GOCAD Suite 3.0.0
+# Archive version: 3.0.0
+# This file is for troubleshooting purposes only.
+control.db	-1	
+data	-1	
+datastore_7ede5704-bf864ee6-a9f2-9aa08245fa98	14027	gridobj_regions
+datastore_346b1de9-b30b4b13-8a6d-55dd6e45c531	14027	gridobj_regions
+datastore_690e42fa-86034797-b9af-008a6857de29	14027	gridobj_regions
+datastore_b1aa088d-2c724904-9813-45b69a7862b2	14027	POROSITY
+datastore_21ba5daf-1aeb4829-a403-10d76a13d247	1346532	sgridpoints	NORTH_GRID
+datastore_8a34ad5d-a06f4a98-bbb6-2b9e548316e9	448844	sgridflags	NORTH_GRID
+datastore_5c15cbc2-16a54119-9a34-70e449245910	400000	POROSITY	NORTH_GRID
+datastore_31dc5f29-00e84357-8c78-a4ffa61ce407	400000	CELL_VOLUME	NORTH_GRID
+datastore_a2d9ca9e-f5f943f9-ab10-9f068b6cfdc3	14027	gridobj_regions
+datastore_883c2512-5a224706-89e8-fb107e033ce6	14027	gridobj_regions
+datastore_0a93bb13-f70248b6-b1a8-e4a001dfd62a	14027	gridobj_regions
+datastore_7c244e00-9610467d-afc1-97eec53eb5ea	14027	POROSITY
+datastore_c6563346-6f5e4b27-9a0e-f0b6f3f33424	1346532	sgridpoints	MIDDLE_SGRID
+datastore_63d89809-356045bd-be32-e882cec4083f	448844	sgridflags	MIDDLE_SGRID
+datastore_71542138-2e864609-8cba-ebd3323d98ce	400000	POROSITY	MIDDLE_SGRID
+datastore_4c7a8365-b12244e3-819b-98458de649a0	400000	CELL_VOLUME	MIDDLE_SGRID
+datastore_8c1014f2-be76413c-87c2-60e42f3c1721	14027	gridobj_regions
+datastore_3f845316-8e134bf5-bddf-2ee1d71a851d	14027	gridobj_regions
+datastore_e5d2e0f0-94714709-8f08-617da7cda715	14027	gridobj_regions
+datastore_2113032b-dd694543-908d-b9c19ff38ad0	14027	POROSITY_SOUTH
+datastore_d46923ba-59ef4efe-91d5-693cb9b3b6a4	1346532	sgridpoints	SOUTH_GRID
+datastore_3ba8390d-9ac04b0c-8241-a6a80999827f	448844	sgridflags	SOUTH_GRID
+datastore_4b6ff8c1-2af946c2-91cf-229334835018	400000	POROSITY_SOUTH	SOUTH_GRID
+datastore_aa300a70-681044c4-bc86-4f1c667071f6	400000	CELL_VOLUME	SOUTH_GRID
+datastore_4aa28221-579d441c-80d0-377825b43443	14027	gridobj_regions
+datastore_6160478a-9536490d-a703-0974b6edec2a	14027	gridobj_regions
+datastore_a4484956-d8784324-980c-4c1dc8cdb91f	14027	gridobj_regions
+datastore_5e6c1b37-d47c46bd-bad3-2badb4eae289	14027	gridobj_regions
+datastore_53e84903-fed044b4-8fa9-f10cd7b3f554	14027	POROSITY
+datastore_46b5a823-d67343b2-86d6-0e122f780e9b	1346532	sgridpoints	SGRID
+datastore_41663334-e43a49ec-8c83-2701d1009b72	448844	sgridflags	SGRID
+datastore_1270b76c-66714c15-95ec-d9f4eb72730f	400000	POROSITY	SGRID
+datastore_a78303fe-e89f4e3a-bbe7-c545b50c6a83	400000	CELL_VOLUME	SGRID
+datastore_e2f7e6f0-43a84c23-91b6-b92c4b40573f	400000	Kriging_POROSITY1	SGRID
+datastore_524bc9ad-58cf417e-9fd1-8af5944bb2ab	400000	Kriging_POROSITYVariance	SGRID
+history.db	-1	
+data.h5	-1	
+data-1.h5	-1	
+data-4.h5	-1	
+data-6.h5	-1	
+data-9.h5	-1	
+data-20.h5	-1	
+data-34.h5	-1	
+data-35.h5	-1	
+data-37.h5	-1	
+data-41.h5	-1	
+data-42.h5	-1	
+data-47.h5	-1	
+data-50.h5	-1	
+data-51.h5	-1	
+data-56.h5	-1	
+data-59.h5	-1	
+bulk.db	-1	
+project	-1	
+inventory.txt	-1	
